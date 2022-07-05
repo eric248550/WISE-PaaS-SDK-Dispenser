@@ -9,6 +9,10 @@ WISE-PaaS Teaching Meterial
 ```
 pip install WISE_PaaS_DataHub_Edge_Python_SDK --upgrade
 ```
+or
+```
+!pip install WISE_PaaS_DataHub_Edge_Python_SDK --upgrade
+```
 
 #### Launch a GUI application
 ```
